@@ -1,0 +1,66 @@
+
+Below is all information regarding HipChat. 
+
+#Resources
+#Requirments
+#Liense
+#LDAP Settings
+
+
+
+----------------------------------------------------------------------------------------------------------------
+#Resources
+
+Overview: 
+https://confluence.atlassian.com/hc/hipchat-server-security-648218032.html
+
+Download: 
+https://www.hipchat.com/server/get-it
+
+Configure:
+https://confluence.atlassian.com/hc/configuring-hipchat-server-608731851.html
+
+Security:
+https://confluence.atlassian.com/hc/hipchat-server-security-648218032.html
+
+When the owner account is lost by HipChat(has happened three times on me):
+https://confluence.atlassian.com/display/HIPCHATKB/Locked+out+of+the+HipChat+Server+Web+UI
+
+#Requirements
+
+-uses 256-bit SSL 
+--will need to use root cert
+
+-supports VMware
+OVA autoconfigured with the following
+--64-bit Ubunutu 12.04 base OS
+--4GB RAM
+--74GB HDD
+
+
+#License
+Atlassian Account
+https://id.atlassian.com/login
+email: alex.pegg@milliman.com
+p/w: $U((3s$1!sa
+
+
+Server ID: 
+B4AS-SSA3-UFG2-W3DC
+
+SEN: 
+SEN-L6827642 
+
+Evaluation License(Expires  2015-12-18):
+AAABOA0ODAoPeNptkV1rwjAYhe/zKwK72S4itn6sEwJzabcJbR2LzpvBiN2rBtK0JGnRf2+1gq7sI
+pDk8D7nnORuBb84LWrsBbgfTEbjyWCEGV9gv++NUAg2M7J0stD0XZZsJxy+52BqMA/fExzVQlXip
+CJm4LwJhQN6miWeR7wnxArtROaiREhFhYJ9r4Tt9jmXSslc6F5W5OiKoc5UgJTMQFv4AmNPdz5qh
+rUDLXQG0b6U5nDj4hMvQHOzFVralpHcsneyzJrUP/Ycuhe36MWhhFTkQNk8SaJPNpvGiFfra9lzj
+rboLKQvwyknnE8HZPn65pPVIGSIRyltFonHgf84Hvpdp7TK12Dmm2VztpR46GLd4OJZ+Gfyovxfr
+YPlThgHhm6EstAVm4eWNbThPyrTSBa6H3IE/9imETAsAhQq1qRpBypGxAIcCWEAc9P+3Q58DQIUP
+dxRIRTaYI+RB8bMATVxteNlzb0=X02fj
+
+
+#LDAP Settings
+
+
