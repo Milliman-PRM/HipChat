@@ -5,8 +5,8 @@ Below is all information regarding HipChat.
 #Requirments
 #Liense
 #LDAP Settings
-
-
+#Additional Settings
+#Usage Notes
 
 ----------------------------------------------------------------------------------------------------------------
 #Resources
@@ -45,22 +45,31 @@ email: alex.pegg@milliman.com
 
 
 
-Server ID: 
-B4AS-SSA3-UFG2-W3DC
-
-SEN: 
-SEN-L6827642 
-
-Evaluation License(Expires  2015-12-18):
-AAABOA0ODAoPeNptkV1rwjAYhe/zKwK72S4itn6sEwJzabcJbR2LzpvBiN2rBtK0JGnRf2+1gq7sI
-pDk8D7nnORuBb84LWrsBbgfTEbjyWCEGV9gv++NUAg2M7J0stD0XZZsJxy+52BqMA/fExzVQlXip
-CJm4LwJhQN6miWeR7wnxArtROaiREhFhYJ9r4Tt9jmXSslc6F5W5OiKoc5UgJTMQFv4AmNPdz5qh
-rUDLXQG0b6U5nDj4hMvQHOzFVralpHcsneyzJrUP/Ycuhe36MWhhFTkQNk8SaJPNpvGiFfra9lzj
-rboLKQvwyknnE8HZPn65pPVIGSIRyltFonHgf84Hvpdp7TK12Dmm2VztpR46GLd4OJZ+Gfyovxfr
-YPlThgHhm6EstAVm4eWNbThPyrTSBa6H3IE/9imETAsAhQq1qRpBypGxAIcCWEAc9P+3Q58DQIUP
-dxRIRTaYI+RB8bMATVxteNlzb0=X02fj
-
-
 #LDAP Settings
+
+
+Authentication User:
+cn=servIndyHipchat,ou=users,ou=Indianapolis,dc=milliman,dc=com
+
+Base DN:
+ou=Indianapolis,dc=milliman,dc=com
+
+Addional Users
+ou=Users
+
+
+User Schema Settings:
+*Only listing changes from default config
+User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy_HipChat,ou=Groups,ou=Indianapolis,dc=milliman,dc=com))
+
+
+#Additional Settings
+IP: 10.3.200.21
+Host name: indy-hipchat.milliman.com
+
+
+#Usage Notes
+Seems to be more responsive in Chrome
+
 
 
