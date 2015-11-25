@@ -1,22 +1,26 @@
 <body>
 <a name="top"></a>
 
-###Table of Contents
-###Usage Notes
-###Resources
-###Requirements
-###License
-###LDAP Settings
-###Addional Settings
+
+
+
+
+#Table of Contents
+<a href="#usage">Usage Notes</a>
+<a href="#resources">Resources</a>
+<a href="#req">Requirements</a>
+<a href="#license">License</a>
+<a href="#ldap">LDAP Settings</a>
+<a href="#add">More Info</a>
 
 
 
 -----------------------------------------------------------------------------------
-##Usage Notes
+##Usage Notes<a name="usage"></a>
 Seems to be more responsive in *Chrome*
 
 
-##Resources
+##Resources<a name="resources"></a>
 
 Overview: 
 >https://confluence.atlassian.com/hc/hipchat-server-security-648218032.html
@@ -33,26 +37,30 @@ Security:
 When the owner account is lost by HipChat(has happened three times on me):
 >https://confluence.atlassian.com/display/HIPCHATKB/Locked+out+of+the+HipChat+Server+Web+UI
 
-##Requirements
+##Requirements<a name="req"></a>
 ######Certificate
 >Uses 256-bit SSL 
+
 >May need to use root cert for integrations
 
 ######Supports VMWare
->OVA autoconfigured with the following
+>OVA autoconfigured with the following:
+
 >64bit Ubunutu 12.04 base OS
 >4GB RAM
 >74GB HDD
 
 
-##License
+##License<a name="license"></a>
 Atlassian Account
 https://id.atlassian.com/login
+
 email: alex.pegg@milliman.com
 
 
 
-##LDAP Settingsd
+##LDAP Settings
+<a name="ldap"></a>
 
 
 >Authentication User:
@@ -70,7 +78,7 @@ ou=Users
 User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy_HipChat,ou=Groups,ou=Indianapolis,dc=milliman,dc=com))
 
 
-##Additional Settings
+##Additional Settings<a name="add"></a>
 >IP: 10.3.200.21
 >Host name: indy-hipchat.milliman.com
 
