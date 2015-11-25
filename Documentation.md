@@ -55,8 +55,7 @@ When the owner account is lost by HipChat(has happened three times on me):
 ##License<a name="license"></a>
 The License currently in use is a 30 day Trial license. 
 
-License Manager:
->Alex Pegg
+License Manager: Alex Pegg
 
 ><a href="mailto:alex.pegg@milliman.com">Email</a>
 
