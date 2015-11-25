@@ -5,14 +5,15 @@
 
 
 
-#Table of Contents
+<center><h1>Table of Contents</h1></center>
+<center>
 <a href="#usage">Usage Notes</a>
 <a href="#resources">Resources</a>
 <a href="#req">Requirements</a>
 <a href="#license">License</a>
 <a href="#ldap">LDAP Settings</a>
 <a href="#add">More Info</a>
-
+</center>
 
 
 -----------------------------------------------------------------------------------
