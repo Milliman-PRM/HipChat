@@ -58,7 +58,7 @@ The License currently in use is a 30 day Trial license.
 License Manager:
 >Alex Pegg
 
-><a href="alex.pegg@milliman.com">Email</a>
+><a href="mailto:alex.pegg@milliman.com">Email</a>
 
 ##LDAP Settings
 <a name="ldap"></a>
