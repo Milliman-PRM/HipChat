@@ -1,19 +1,22 @@
-#[Table of Contents][1]
-###Usage Notes[2]
-###Resources[3]
-###Requirements[4]
-###License[5]
-###LDAP Settings[6]
-###[Addional Settings][7]
+<body>
+<a name="top"></a>
+
+###Table of Contents
+###Usage Notes
+###Resources
+###Requirements
+###License
+###LDAP Settings
+###Addional Settings
 
 
 
 -----------------------------------------------------------------------------------
-[1]:#Usage Notes
+##Usage Notes
 Seems to be more responsive in *Chrome*
 
 
-#Resources
+##Resources
 
 Overview: 
 >https://confluence.atlassian.com/hc/hipchat-server-security-648218032.html
@@ -30,7 +33,7 @@ Security:
 When the owner account is lost by HipChat(has happened three times on me):
 >https://confluence.atlassian.com/display/HIPCHATKB/Locked+out+of+the+HipChat+Server+Web+UI
 
-#Requirements
+##Requirements
 ######Certificate
 >Uses 256-bit SSL 
 >May need to use root cert for integrations
@@ -42,14 +45,14 @@ When the owner account is lost by HipChat(has happened three times on me):
 >74GB HDD
 
 
-#License
+##License
 Atlassian Account
 https://id.atlassian.com/login
 email: alex.pegg@milliman.com
 
 
 
-#LDAP Settings
+##LDAP Settingsd
 
 
 >Authentication User:
@@ -67,11 +70,12 @@ ou=Users
 User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy_HipChat,ou=Groups,ou=Indianapolis,dc=milliman,dc=com))
 
 
-#Additional Settings
+##Additional Settings
 >IP: 10.3.200.21
 >Host name: indy-hipchat.milliman.com
 
+<a href="#top">Top of Page</a>
 
-
+</body>
 
 
