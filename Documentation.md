@@ -82,8 +82,9 @@ User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy
 >IP: 10.3.200.21
 >Host name: indy-hipchat.milliman.com
 
+<p align="center">
 <a href="#top">Top of Page</a>
-
+</p>
 </body>
 
 
