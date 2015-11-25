@@ -1,14 +1,18 @@
+#Table of Contents[1]
+###Usage Notes[2]
+###Resources[3]
+###Requirements[4]
+###License[5]
+###LDAP Settings[6]
+[###Addional Settings][7]
 
-Below is all information regarding HipChat. 
 
-#Resources
-#Requirments
-#Liense
-#LDAP Settings
-#Additional Settings
-#Usage Notes
 
-----------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+[1]:#Usage Notes
+Seems to be more responsive in *Chrome*
+
+
 #Resources
 
 Overview: 
@@ -29,13 +33,13 @@ https://confluence.atlassian.com/display/HIPCHATKB/Locked+out+of+the+HipChat+Ser
 #Requirements
 
 -uses 256-bit SSL 
---will need to use root cert
+-will need to use root cert
 
--supports VMware
-OVA autoconfigured with the following
---64-bit Ubunutu 12.04 base OS
---4GB RAM
---74GB HDD
+######Supports VMWare
+>OVA autoconfigured with the following
+>64bit Ubunutu 12.04 base OS
+>4GB RAM
+>74GB HDD
 
 
 #License
@@ -68,8 +72,6 @@ IP: 10.3.200.21
 Host name: indy-hipchat.milliman.com
 
 
-#Usage Notes
-Seems to be more responsive in Chrome
 
 
 
