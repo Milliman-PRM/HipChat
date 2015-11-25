@@ -53,12 +53,12 @@ When the owner account is lost by HipChat(has happened three times on me):
 
 
 ##License<a name="license"></a>
-Atlassian Account
-https://id.atlassian.com/login
+The License currently in use is a 30 day Trial license. 
 
-email: alex.pegg@milliman.com
+License Manager:
+>Alex Pegg
 
-
+><a href="alex.pegg@milliman.com">Email</a>
 
 ##LDAP Settings
 <a name="ldap"></a>
