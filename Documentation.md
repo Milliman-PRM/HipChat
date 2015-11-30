@@ -20,7 +20,7 @@
 -----------------------------------------------------------------------------------
 ##Usage Notes<a name="usage"></a>
 Seems to be more responsive in *Chrome*
-<a href="#top" style="position: fixed; z-index: 2147483647; display: block;">Scroll to top</a>
+<a href="#top" style="position: fixed; z-index: 2147483647; display: block; bottom: 20px; right: 20px; background-color: #2481B7; color: #FFF; font-size: 12px; text-transform: uppercase; font-weight: 600; letter-spacing: 1.3px; text-decoration: none; opacity: 1; padding: 11px 0px 9px; width: 140px; text-align: center; border-radius: 18px; transition: background 200ms ease 0s;">Scroll to top</a>
 
 ##Resources<a name="resources"></a>
 
