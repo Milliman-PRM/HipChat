@@ -20,7 +20,7 @@
 -----------------------------------------------------------------------------------
 ##Usage Notes<a name="usage"></a>
 Seems to be more responsive in *Chrome*
-
+<a href="#top" style="position: fixed; z-index: 2147483647; display: block;">Scroll to top</a>
 
 ##Resources<a name="resources"></a>
 
@@ -52,7 +52,7 @@ When the owner account is lost by HipChat(has happened three times on me):
 >4GB RAM
 >74GB HDD
 
-<a id="scrollUP" href="#top" style="position: fixed; z-index: 2147483647; display: block;">Scroll to top</a>
+
 ##License<a name="license"></a>
 The License currently in use is a 30 day Trial license. 
 
