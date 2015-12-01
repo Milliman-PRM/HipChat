@@ -1,27 +1,21 @@
 
-
-
-	<head>
-		<link href="css/documentation.css" rel="stylesheet">
-	</head>
-
-	<body>
-		<a name="top"></a>
-		<a name="#top"></a>
+<body>
+	<a name="top"></a>
+	<a name="#top"></a>
+	<link href="css/documentation.css" rel="stylesheet">
 
 
 
-
-	<p align="center">
-		<b>Table of Contents</b><br>
-			<a href="#usage">Usage Notes</a> |
-			<a href="#resources">Resources</a> |
-			<a href="#req">Requirements</a> |
-			<a href="#license">License</a> |
-			<a href="#ldap">LDAP Settings</a> |
-			<a href="#add">More Info</a>
-		<br><br>
-	</p>
+<p align="center">
+	<b>Table of Contents</b><br>
+		<a href="#usage">Usage Notes</a> |
+		<a href="#resources">Resources</a> |
+		<a href="#req">Requirements</a> |
+		<a href="#license">License</a> |
+		<a href="#ldap">LDAP Settings</a> |
+		<a href="#add">More Info</a>
+	<br><br>
+</p>
 
 
 -----------------------------------------------------------------------------------
