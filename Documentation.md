@@ -91,6 +91,6 @@ User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy
 		<p align="center">
 			<a href="#top">Top of Page</a>
 		</p>
-	body>
+	</body>
 </html>
 
