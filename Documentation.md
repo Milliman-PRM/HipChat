@@ -57,6 +57,7 @@ When the owner account is lost by HipChat(has happened three times on me):
 >74GB HDD
 
 
+
 ##License<a name="license"></a>
 The License currently in use is a 30 day Trial license. 
 
@@ -87,9 +88,9 @@ User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy
 >IP: 10.3.200.21
 >Host name: indy-hipchat.milliman.com
 
-	<p align="center">
-		<a href="#top">Top of Page</a>
-	</p>
+<p align="center">
+	<a href="#top">Top of Page</a>
+</p>
 </body>
 
 
