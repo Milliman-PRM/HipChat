@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 	<head>
 		<link href="css/documentation.css" rel="stylesheet">
 	</head>
@@ -25,7 +24,7 @@
 -----------------------------------------------------------------------------------
 ##Usage Notes<a name="usage"></a>
 Seems to be more responsive in *Chrome*
-<a id="scrollUp" href="#top" style="z-index: 2147483647; display: block; position: fixed;">Scroll to top</a>
+
 
 ##Resources<a name="resources"></a>
 
@@ -92,5 +91,5 @@ User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy
 			<a href="#top">Top of Page</a>
 		</p>
 	</body>
-</html>
+
 
