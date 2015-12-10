@@ -1,31 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<link href="css/documentation.css" rel="stylesheet">
-	</head>
-	<body>
-		<a name="top"></a>
-		<a name="#top"></a>
-		
+
+<head>
+	<link href="css/documentation.css" rel="stylesheet">
+</head>
+<body>
+	<a name="top"></a>
+	<a name="#top"></a>
+	
 
 
 
-	<p align="center">
-		<b>Table of Contents</b><br>
-			<a href="#usage">Usage Notes</a> |
-			<a href="#resources">Resources</a> |
-			<a href="#req">Requirements</a> |
-			<a href="#license">License</a> |
-			<a href="#ldap">LDAP Settings</a> |
-			<a href="#add">More Info</a>
-		<br><br>
-	</p>
+<p align="center">
+	<b>Table of Contents</b><br>
+		<a href="#usage">Usage Notes</a> |
+		<a href="#resources">Resources</a> |
+		<a href="#req">Requirements</a> |
+		<a href="#license">License</a> |
+		<a href="#ldap">LDAP Settings</a> |
+		<a href="#add">More Info</a>
+	<br><br>
+</p>
 
 
 -----------------------------------------------------------------------------------
 ##Usage Notes<a name="usage"></a>
 Seems to be more responsive in *Chrome*
-<a id="scrollUp" href="#top" style="z-index: 2147483647; display: block; position: fixed;">Scroll to top</a>
+
 
 ##Resources<a name="resources"></a>
 
@@ -58,6 +57,7 @@ When the owner account is lost by HipChat(has happened three times on me):
 >74GB HDD
 
 
+
 ##License<a name="license"></a>
 The License currently in use is a 30 day Trial license. 
 
@@ -88,9 +88,9 @@ User Object Filter: (&(objectCategory=Person)(sAMAccountName=*)(memberOf=cn=Indy
 >IP: 10.3.200.21
 >Host name: indy-hipchat.milliman.com
 
-		<p align="center">
-			<a href="#top">Top of Page</a>
-		</p>
-	</body>
-</html>
+<p align="center">
+	<a href="#top">Top of Page</a>
+</p>
+</body>
+
 
