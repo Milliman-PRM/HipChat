@@ -7,7 +7,6 @@ HipChat is instant messaging for businesses that aims to integrate project-manag
 * Integrated within AD; a user must be a part of the correct group to login
 	* Currently by design, a user must use their email address to login. This is because HipChat pulls the email address from user accounts in AD to put in its database. This aspect is currently not customizable. 
 * A DNS entry for `indy-hipchat.milliman.com` is in place
-* A SHA-1 SSL Certificate is in place authenticating against corporate's own Root Cert. 
-	* This certificate will be updated as soon as possible
-	* Chrome and Firefox will still complain about the integrity of the certificate atm
+* A SHA-256 SSL Certificate is in place authenticating against corporate's own Root Cert. 
+
 	
